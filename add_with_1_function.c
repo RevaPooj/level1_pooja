@@ -1,6 +1,6 @@
 //Write a program to add two user input numbers using one function.
 #include<stdio.h>
-int main;
+int main()
 {
 int n1,n2,sum;
   printf("enter two numbers:");
